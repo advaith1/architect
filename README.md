@@ -1,3 +1,14 @@
+[![Build Status](https://travis-ci.org/advaith1/architect-nosidebar.svg?branch=master)](https://travis-ci.org/advaith1/architect-nosidebar)
+
+advaith1/architect-nosidebar is a modified version of the official Architect theme. It has no sidebar. 
+
+[Preview it here](https://advaith1.github.io/architect-nosidebar)  
+Add it to your GitHub Pages site by adding the following line to your config.yml: `remote_theme: advaith1/architect-nosidebar`
+
+The following info is for the original Architect theme.
+
+---
+
 # The Architect theme
 
 [![Build Status](https://travis-ci.org/pages-themes/architect.svg?branch=master)](https://travis-ci.org/pages-themes/architect) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-architect.svg)](https://badge.fury.io/rb/jekyll-theme-architect)
